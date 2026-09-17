@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/Users/ger_1/OneDrive/Documentos/Verilog/ProySemana2/ContDis7seg/ContDis7seg/src/top.v",
+  "InstLine" : 2,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/ger_1/OneDrive/Documentos/Verilog/ProySemana2/ContDis7seg/ContDis7seg/src/top.v",
+  "ModuleLine" : 2,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/ger_1/OneDrive/Documentos/Verilog/ProySemana2/ContDis7seg/ContDis7seg/src/top.v",
+    "InstLine" : 16,
+    "InstName" : "instanceDivFrec01",
+    "ModuleFile" : "C:/Users/ger_1/OneDrive/Documentos/Verilog/ProySemana2/ContDis7seg/ContDis7seg/src/DivFrec01.v",
+    "ModuleLine" : 25,
+    "ModuleName" : "clkdiv"
+   },
+   {
+    "InstFile" : "C:/Users/ger_1/OneDrive/Documentos/Verilog/ProySemana2/ContDis7seg/ContDis7seg/src/top.v",
+    "InstLine" : 22,
+    "InstName" : "instanceContador4bits",
+    "ModuleFile" : "C:/Users/ger_1/OneDrive/Documentos/Verilog/ProySemana2/ContDis7seg/ContDis7seg/src/Contador4bits.v",
+    "ModuleLine" : 13,
+    "ModuleName" : "contador4bits"
+   },
+   {
+    "InstFile" : "C:/Users/ger_1/OneDrive/Documentos/Verilog/ProySemana2/ContDis7seg/ContDis7seg/src/top.v",
+    "InstLine" : 28,
+    "InstName" : "instancedis7seg",
+    "ModuleFile" : "C:/Users/ger_1/OneDrive/Documentos/Verilog/ProySemana2/ContDis7seg/ContDis7seg/src/Disp7seg.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "dis7seg"
+   }
+  ]
+ }
+]

@@ -1,0 +1,14 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\Contador4bits.v'
+Analyzing Verilog file 'C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\Disp7seg.v'
+Analyzing Verilog file 'C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\DivFrec01.v'
+Analyzing Verilog file 'C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\top.v'
+Undeclared symbol 'clk', assumed default net type 'wire'("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\top.v":23)
+ERROR (EX3675) : Non-net port 'xN' cannot be of mode input("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\top.v":7)
+ERROR (EX3805) : Concurrent assignment to a non-net 'xN' is not permitted("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\top.v":37)
+WARN  (EX3786) : Assignment to input 'xN'("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\top.v":37)
+WARN  (EX2350) : Illegal assignment to variable input port 'xN'("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\top.v":37)
+ERROR (EX3928) : Module 'top' is ignored due to previous errors("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\top.v":40)
+Verilog file 'C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ContDis7seg\ContDis7seg\src\top.v' ignored due to errors
+GowinSynthesis finish
