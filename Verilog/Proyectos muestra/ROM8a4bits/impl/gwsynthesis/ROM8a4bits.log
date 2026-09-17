@@ -1,0 +1,24 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ROM_8a4bits\ROM8a4bits\src\rom8a4bits.v'
+Compiling module 'rom_4bits_8dir_param'("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ROM_8a4bits\ROM8a4bits\src\rom8a4bits.v":7)
+NOTE  (EX0101) : Current top module is "rom_4bits_8dir_param"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ROM_8a4bits\ROM8a4bits\impl\gwsynthesis\ROM8a4bits.vg" completed
+[100%] Generate report file "C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ROM_8a4bits\ROM8a4bits\impl\gwsynthesis\ROM8a4bits_syn.rpt.html" completed
+GowinSynthesis finish

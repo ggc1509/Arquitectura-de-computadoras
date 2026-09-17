@@ -1,0 +1,12 @@
+[General]
+ipc_version=4
+file=pwm
+module=PWM_Top
+target_device=gw1nr9c-004
+type=pwm
+version=1.0
+
+[Config]
+Cycle_Width=8
+LANG=0
+Synthesis_tool=GowinSynthesis

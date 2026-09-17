@@ -1,0 +1,36 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm_wrapper.v'
+Analyzing included file 'define.vh'("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm_wrapper.v":1)
+Back to file 'C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm_wrapper.v'("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm_wrapper.v":1)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\static_macro_define.vh'("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm_wrapper.v":2)
+Back to file 'C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm_wrapper.v'("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm_wrapper.v":2)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm.v'
+Analyzing included file 'define.vh'("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm.v":115)
+Back to file 'C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm.v'("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm.v":115)
+Analyzing included file 'C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\static_macro_define.vh'("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm.v":115)
+Back to file 'C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm.v'("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm.v":115)
+Compiling module 'PWM_Top'("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm_wrapper.v":6)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm.v":115)
+NOTE  (EX0101) : Current top module is "PWM_Top"
+[5%] Running netlist conversion ...
+WARN  (CV0020) : Input initial_cycle[2:0] is unused("C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\ipcore\PWM\data\pwm_wrapper.v":18)
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ROM_256a8bits\rom256a8bits\src\pwm\temp\pwm\pwm.vg" completed
+Generate template file "C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ROM_256a8bits\rom256a8bits\src\pwm\temp\pwm\pwm_tmp.v" completed
+[100%] Generate report file "C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\ROM_256a8bits\rom256a8bits\src\pwm\temp\pwm\pwm_syn.rpt.html" completed
+GowinSynthesis finish
