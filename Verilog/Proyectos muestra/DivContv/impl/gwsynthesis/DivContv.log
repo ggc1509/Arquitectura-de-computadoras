@@ -1,0 +1,10 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\DivCont\DivContv\src\Contador4bits.v'
+Analyzing Verilog file 'C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\DivCont\DivContv\src\DivFrec01.v'
+Analyzing Verilog file 'C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\DivCont\DivContv\src\top.v'
+Undeclared symbol 'clk', assumed default net type 'wire'("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\DivCont\DivContv\src\top.v":19)
+Compiling module 'top'("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\DivCont\DivContv\src\top.v":2)
+ERROR (EX3937) : Instantiating unknown module 'DivFrec01'("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\DivCont\DivContv\src\top.v":16)
+Module 'top' remains a black box due to errors in its contents("C:\Users\ger_1\OneDrive\Documentos\Verilog\ProySemana2\DivCont\DivContv\src\top.v":2)
+GowinSynthesis finish
